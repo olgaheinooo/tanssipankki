@@ -1,14 +1,15 @@
-# Naapurien tavara- ja työkalupankki
-Lainaa ja vältä turhia ostoksia.
+# Treenipankki
+Kuka tahansa käyttäjä voisi järjestää avoimen tanssitunnin, treenit tai koreografian harjoittelukerran. Ei siis välttämättä virallinen tanssikoulu, vaan myös harrastajien yhteisiä treenejä.
 
-Käyttäjät ilmoittavat tavaroita, joita he voivat lainata muille: porakoneita, työkaluja, retkeilyvälineitä tai vaikkapa ompelukoneita.
+Esimerkki: joku haluaa harjoitella hiphopia sunnuntaina ja ilmoittaa, että mukaan mahtuu kahdeksan tanssijaa.
+- Pääkohde: tanssitunti tai treenitapaaminen.
+- Toissijainen tietokohde: ilmoittautuminen tunnille.
+- Luokittelut: laji, taitotaso, sijainti ja tunnin tyyppi.
+- Haku: päivämäärä, laji, paikka ja vapaat paikat.
+- Käyttäjäsivu: järjestetyt tunnit ja omat ilmoittautumiset.
+Tunnin järjestäjä voisi lisätä kuvauksen, ajankohdan, paikan ja osallistujamäärän. Muut ilmoittautuvat. Tunnin voi myös järjestää maksuttomana, jolloin maksujärjestelmiä ei tarvita.
 
-Pääkohde: lainattava tavara.
-
-Toissijainen tietokohde: lainapyyntö, jonka toinen käyttäjä voi lisätä kenen tahansa tavaraan. Pyynnössä kerrotaan toivottu laina-aika ja mahdollinen viesti.
-
-Luokittelut tietokannassa:
-- Tavaratyyppi: työkalut, elektroniikka, urheiluvälineet, keittiövälineet
-- Saatavuus: lainattavissa, tilapäisesti lainassa, ei saatavilla
-- Noutotapa ja kunto
-Haku: tavaran nimi, tyyppi, sijaintialue ja saatavuus.
+Treenipankissa voisi olla esimerkiksi:
+- harrastajien järjestämiä tanssitreenejä
+- tanssikoulujen omia tunteja
+- myöhemmin vaikka muiden lajien ryhmätreenejä
